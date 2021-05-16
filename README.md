@@ -1,4 +1,4 @@
-# Analyze_Fintech_ETF
+# Analyze Fintech ETF
 
 ## Technologies
 
