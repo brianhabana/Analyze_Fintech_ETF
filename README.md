@@ -48,4 +48,5 @@ MIT
 
 ## Screenshots
 
+![alt text](https://github.com/brianhabana/Analyze_Fintech_ETF/blob/main/images/Screen%20Shot%202021-05-16%20at%203.38.16%20PM.png)
 
